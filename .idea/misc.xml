@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenServices">
+    <service-url>https://repo.huaweicloud.com/repository/maven/</service-url>
+    <service-url>http://maven.aliyun.com/nexus/content/repositories/jcenter</service-url>
+    <service-url>http://maven.aliyun.com/nexus/content/groups/public/</service-url>
+    <service-url>http://maven.aliyun.com/nexus/content/repositories/google</service-url>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="ab4738d4-ab30-48f5-b4e3-f5aeb5ce8442" />
+      <option name="name" value="ab4738d4-ab30-48f5-b4e3-f5aeb5ce8442" />
+      <option name="url" value="https://repo.huaweicloud.com/repository/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="875dead8-123f-40a6-b0c6-eb069f99cc71" />
+      <option name="name" value="875dead8-123f-40a6-b0c6-eb069f99cc71" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/jcenter" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dfdd422c-d269-41ca-a274-28e9cb19c4d7" />
+      <option name="name" value="dfdd422c-d269-41ca-a274-28e9cb19c4d7" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="b7334eab-7d19-4efc-ae2c-c1e316e32797" />
+      <option name="name" value="b7334eab-7d19-4efc-ae2c-c1e316e32797" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/google" />
+    </remote-repository>
+  </component>
+</project>
